@@ -6,7 +6,7 @@ The various image operations have been highly optimized so it has acceptable per
 
 ## Try it out
 
-https://drake7707.github.io/ocr-receipt/
+https://drakarah.github.io/ocr-receipt/
 
 Due to the use of Canny and automatic threshold selection (and a wide variety of cameras and exposures) it's best to try it out in a well lit area with a darker plain background so the contrast is clear and the edges are properly detected without too much noise.
 
